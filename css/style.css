@@ -1,0 +1,149 @@
+body {
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+    font-size: 12px;
+    padding: 0%;
+}
+
+    
+.header_logo { 
+    position: absolute;
+    display: block;
+    font-family: Revalia;
+    font-weight: normal;
+    font-size: 48px;
+    position: absolute;
+    width: 96px;
+    height: 60px;
+    left: 402px;
+    top: 50px;
+    padding: 0;
+    line-height: 60px;
+    text-align: center;
+    color:#34547A;
+}
+.top_menu {
+    display: inline-block;
+    position: absolute;
+    padding: 0;
+    width: 611px;
+    height: 16px;
+    left: 896px;
+    top: 72px;
+
+}
+li {
+    display:inline-block;
+    text-decoration: none;
+    position: absolute
+    width: 611px;
+    height: 16px;
+    left: 896px;
+    top: 72px;
+    font-style: normal;
+    font-weight: normal;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    
+
+}
+.top_menu_first {
+    text-decoration: none;
+    color: black;    
+}
+
+.top_menu_next {
+    text-decoration: none;
+    margin-left: 39px;
+    color: black;    
+}
+
+.content_top {
+    width: 1920px;
+    height: 700px;
+    background:#EEEFF1;
+    padding: 0;
+}   
+
+.top_img {
+    position: absolute;
+    width: 357px;
+    height: 233.7px;
+    left: 487px;
+    top: 271px;
+}
+h1{
+  
+    position: absolute;
+    width: 541px;
+    height: 45px;
+    left: 974px;
+    top: 250px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+    color: #000000;
+}
+
+.text_top {
+    position: absolute;
+    width: 540px;
+    height: 67px;
+    left: 975px;
+    top: 355px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+}
+.about_me{
+    position: absolute;
+    width: 540px;
+    height: 147px;
+    left: 690px;
+    top: 812px;
+    padding: 0;
+}
+
+.about_me_h2 {
+    margin-top: 0;
+    margin-left: 68px;
+    margin-right: 69px;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #000000;
+}
+.about_me_text{
+    margin-bottom: 0%;
+    margin-left: 0%;
+    margin-right: 0%;
+    font-family: Roboto;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+}
+.rectangle {
+    width: 1920px;
+    height: 250px;
+    background:#34547A;
+    padding: 0;
+    position: absolute;
+    height: 250px;
+    left: 0px;
+    top: 1059px;
+}
